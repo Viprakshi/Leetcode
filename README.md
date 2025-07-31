@@ -20,4 +20,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/Viprakshi/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Viprakshi/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Viprakshi/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Viprakshi/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
