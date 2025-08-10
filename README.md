@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Viprakshi/Leetcode/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/Viprakshi/Leetcode/tree/master/0890-lemonade-change) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Viprakshi/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Viprakshi/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Viprakshi/Leetcode/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/Viprakshi/Leetcode/tree/master/0890-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
