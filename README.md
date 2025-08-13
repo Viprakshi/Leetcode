@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Viprakshi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Viprakshi/Leetcode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Viprakshi/Leetcode/tree/master/0890-lemonade-change) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Viprakshi/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Viprakshi/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Viprakshi/Leetcode/tree/master/0022-generate-parentheses) |
+| [0435-non-overlapping-intervals](https://github.com/Viprakshi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Linked List
 |  |
 | ------- |
@@ -60,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Viprakshi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Viprakshi/Leetcode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Viprakshi/Leetcode/tree/master/0890-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Viprakshi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Viprakshi/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
