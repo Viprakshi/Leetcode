@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Viprakshi/Leetcode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Viprakshi/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Viprakshi/Leetcode/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/Viprakshi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Viprakshi/Leetcode/tree/master/0455-assign-cookies) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Viprakshi/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Viprakshi/Leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Viprakshi/Leetcode/tree/master/0053-maximum-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/Viprakshi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Linked List
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Viprakshi/Leetcode/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/Viprakshi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Viprakshi/Leetcode/tree/master/0455-assign-cookies) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Viprakshi/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
