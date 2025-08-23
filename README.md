@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Viprakshi/Leetcode/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/Viprakshi/Leetcode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Viprakshi/Leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Viprakshi/Leetcode/tree/master/1013-fibonacci-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Viprakshi/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Viprakshi/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Viprakshi/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Viprakshi/Leetcode/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/Viprakshi/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Viprakshi/Leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Viprakshi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/Viprakshi/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Viprakshi/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Viprakshi/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0279-perfect-squares](https://github.com/Viprakshi/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Viprakshi/Leetcode/tree/master/0322-coin-change) |
 ## Memoization
 |  |
