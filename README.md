@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/Viprakshi/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0890-lemonade-change](https://github.com/Viprakshi/Leetcode/tree/master/0890-lemonade-change) |
 | [1127-last-stone-weight](https://github.com/Viprakshi/Leetcode/tree/master/1127-last-stone-weight) |
+| [1184-car-pooling](https://github.com/Viprakshi/Leetcode/tree/master/1184-car-pooling) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Viprakshi/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Viprakshi/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Viprakshi/Leetcode/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/Viprakshi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Viprakshi/Leetcode/tree/master/0455-assign-cookies) |
+| [1184-car-pooling](https://github.com/Viprakshi/Leetcode/tree/master/1184-car-pooling) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -140,12 +142,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/Viprakshi/Leetcode/tree/master/1127-last-stone-weight) |
+| [1184-car-pooling](https://github.com/Viprakshi/Leetcode/tree/master/1184-car-pooling) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Viprakshi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1184-car-pooling](https://github.com/Viprakshi/Leetcode/tree/master/1184-car-pooling) |
 ## Simulation
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Viprakshi/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [1184-car-pooling](https://github.com/Viprakshi/Leetcode/tree/master/1184-car-pooling) |
 <!---LeetCode Topics End-->
