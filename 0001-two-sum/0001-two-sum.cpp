@@ -5,10 +5,11 @@ public:
         for(int i=0;i<nums.size();i++){
             int to_find=target-nums[i];
             if(map.find(to_find)!=map.end()){
-                return {map[to_find],i};
+                return {i, map[to_find]};
             }
-            map[nums[i]]=i;
+            else{
+                map[nums[i]]=i;
+            }
         }
-    return {-1,-1};
-    }
-};
+        return {-1,1};
+}};
