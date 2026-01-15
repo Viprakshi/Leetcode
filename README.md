@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Viprakshi/Leetcode/tree/master/0890-lemonade-change) |
 | [1127-last-stone-weight](https://github.com/Viprakshi/Leetcode/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/Viprakshi/Leetcode/tree/master/1184-car-pooling) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Viprakshi/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Viprakshi/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Viprakshi/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Viprakshi/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -196,4 +197,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Viprakshi/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Viprakshi/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Viprakshi/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 <!---LeetCode Topics End-->
