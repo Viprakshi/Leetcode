@@ -1,0 +1,15 @@
+class Solution {
+public:
+    bool isPal(string s) {
+        int l = 0, r = s.size() - 1;
+        while (l < r)
+            if (s[l++] != s[r--]) return false;
+        return true;
+    }
+
+    string firstPalindrome(vector<string>& words) {
+        for (string w : words)
+            if (isPal(w)) return w;
+        return "";
+    }
+};
