@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Viprakshi/Leetcode/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/Viprakshi/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/Viprakshi/Leetcode/tree/master/1816-truncate-sentence) |
+| [1859-sorting-the-sentence](https://github.com/Viprakshi/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Viprakshi/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Dynamic Programming
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Viprakshi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Viprakshi/Leetcode/tree/master/0455-assign-cookies) |
 | [1184-car-pooling](https://github.com/Viprakshi/Leetcode/tree/master/1184-car-pooling) |
+| [1859-sorting-the-sentence](https://github.com/Viprakshi/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Viprakshi/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Divide and Conquer
 |  |
