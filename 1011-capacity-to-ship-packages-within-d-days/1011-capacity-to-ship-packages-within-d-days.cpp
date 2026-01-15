@@ -1,37 +1,33 @@
 class Solution {
 public:
-    int cal(vector<int>& weights, int mid){
-        int days=0, curr=0;
-        for(int weight:weights){
-            
-            if(curr+weight<=mid){
-                curr+=weight;
-            }
-            else{
-                curr=weight;
+    int daysNeeded(vector<int>& w, int cap) {
+        int days = 1, load = 0;
+        for (int x : w) {
+            if (load + x > cap) {
                 days++;
+                load = x;
+            } else {
+                load += x;
             }
-            
         }
-        if(curr) return days+1;
         return days;
     }
-    int shipWithinDays(vector<int>& weights, int days) {
-        int low=*max_element(weights.begin(), weights.end());
-        int high=0, mid;
-        int ans;
-        for(int weight: weights) high+=weight;
 
-        while(low<=high){
-            mid=(low+high)/2;
-            if(cal(weights,mid)<=days){
-                ans=mid;
-                high=mid-1;
-            }
-            else{
-                low=mid+1;
+    int shipWithinDays(vector<int>& weights, int days) {
+        int low = *max_element(weights.begin(), weights.end());
+        int high = accumulate(weights.begin(), weights.end(), 0);
+        int ans = high;
+
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            if (daysNeeded(weights, mid) <= days) {
+                ans = mid;
+                high = mid - 1;
+            } else {
+                low = mid + 1;
             }
         }
         return ans;
     }
 };
+
