@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Viprakshi/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Viprakshi/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/Viprakshi/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Viprakshi/Leetcode/tree/master/0022-generate-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/Viprakshi/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0822-unique-morse-code-words](https://github.com/Viprakshi/Leetcode/tree/master/0822-unique-morse-code-words) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Viprakshi/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Viprakshi/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Viprakshi/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Viprakshi/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Viprakshi/Leetcode/tree/master/0070-climbing-stairs) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Viprakshi/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/Viprakshi/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Viprakshi/Leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Viprakshi/Leetcode/tree/master/1013-fibonacci-number) |
