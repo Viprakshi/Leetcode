@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Viprakshi/Leetcode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Viprakshi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0822-unique-morse-code-words](https://github.com/Viprakshi/Leetcode/tree/master/0822-unique-morse-code-words) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Viprakshi/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Viprakshi/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3227-find-missing-and-repeated-values](https://github.com/Viprakshi/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Viprakshi/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Viprakshi/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Viprakshi/Leetcode/tree/master/1678-goal-parser-interpretation) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Viprakshi/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1816-truncate-sentence](https://github.com/Viprakshi/Leetcode/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/Viprakshi/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/Viprakshi/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Viprakshi/Leetcode/tree/master/0169-majority-element) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Viprakshi/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Binary Search
 |  |
 | ------- |
