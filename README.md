@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Viprakshi/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3227-find-missing-and-repeated-values](https://github.com/Viprakshi/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Viprakshi/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Viprakshi/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Viprakshi/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Viprakshi/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Sliding Window
 |  |
 | ------- |
