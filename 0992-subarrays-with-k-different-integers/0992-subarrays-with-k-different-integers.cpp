@@ -7,8 +7,6 @@ public:
 
         for (int right = 0; right < nums.size(); right++) {
             mpp[nums[right]]++;
-
-            // shrink window if distinct elements exceed k
             while (mpp.size() > k) {
                 mpp[nums[left]]--;
                 if (mpp[nums[left]] == 0) {
@@ -16,8 +14,6 @@ public:
                 }
                 left++;
             }
-
-            // count all subarrays ending at right
             ans += (right - left + 1);
         }
 
