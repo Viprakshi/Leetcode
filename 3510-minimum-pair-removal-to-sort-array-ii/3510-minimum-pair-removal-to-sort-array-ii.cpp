@@ -1,71 +1,90 @@
 class Solution {
 public:
-    typedef long long ll;
+    using ll = long long;
+
     int minimumPairRemoval(vector<int>& nums1) {
         int n = nums1.size();
-        vector<ll> nums(n,0);
-        for(int i=0;i<n;i++){
-            nums[i] = nums1[i];
+        if (n <= 1) return 0;
+
+        vector<ll> nums(n);
+        for (int i = 0; i < n; i++) nums[i] = nums1[i];
+
+        vector<int> prev_idx(n), next_idx(n);
+        vector<char> alive(n, 1);
+        for (int i = 0; i < n; i++) {
+            prev_idx[i] = i - 1;
+            next_idx[i] = (i + 1 < n ? i + 1 : -1);
         }
-        vector<int> nextIndex(n),prevIndex(n);
 
-        for(int i=0;i<n;i++){
-            nextIndex[i] = i+1;
+        auto bad_edge = [&](int i) -> int {
+            if (i == -1) return 0;
+            int j = next_idx[i];
+            if (j == -1) return 0;
+            return nums[i] > nums[j];
+        };
+
+        ll bad_cnt = 0;
+        for (int i = 0; i < n; i++) bad_cnt += bad_edge(i);
+
+        using state = pair<ll, int>;
+        priority_queue<state, vector<state>, greater<state>> pq;
+
+        vector<ll> ver(n, 0);
+
+        auto push_pair = [&](int i) {
+            if (i == -1) return;
+            int j = next_idx[i];
+            if (j == -1) return;
+            ver[i]++;
+            pq.push({nums[i] + nums[j], i});
+        };
+
+        for (int i = 0; i < n; i++) {
+            if (next_idx[i] != -1) pq.push({nums[i] + nums[next_idx[i]], i});
         }
 
-        for(int i=0;i<n;i++){
-            prevIndex[i] = i-1;
-        }
-        set<pair<ll,int>> pairSumSet;
+        int ops = 0, alive_cnt = n;
 
-        int badPairCount = 0;
+        while (alive_cnt > 1 && bad_cnt > 0) {
+            ll sum;
+            int i;
 
-        for(int i=0;i<n-1;i++){
-            if(nums[i] > nums[i+1])badPairCount++;
-            pairSumSet.insert({nums[i]+nums[i+1], i});
-        }
-        int mergeOperations = 0;
+            while (true) {
+                sum = pq.top().first;
+                i = pq.top().second;
+                pq.pop();
 
-        while(badPairCount > 0){
-            auto it = pairSumSet.begin();
-            int currIdx = it->second;
-            int nextIdx = nextIndex[currIdx];
-            int prevIdx = prevIndex[currIdx];
+                if (i == -1 || !alive[i]) continue;
+                int j = next_idx[i];
+                if (j == -1 || !alive[j]) continue;
+                if (nums[i] + nums[j] != sum) continue;
 
-            int nextNextIdx = nextIndex[nextIdx];
-
-            pairSumSet.erase(it);
-
-            if(nums[currIdx] > nums[nextIdx])badPairCount--;
-
-            if(prevIdx >= 0){
-                if(nums[prevIdx] > nums[currIdx]) badPairCount--;
-                if(nums[prevIdx] > nums[currIdx] + nums[nextIdx]) badPairCount++;
-                pairSumSet.erase({nums[prevIdx] + nums[currIdx], prevIdx});
+                break;
             }
 
-            if(nextNextIdx < n){
-                if(nums[nextIdx] > nums[nextNextIdx]) badPairCount--;
-                if(nums[currIdx] + nums[nextIdx] > nums[nextNextIdx]) badPairCount++;
-                pairSumSet.erase({nums[nextIdx] + nums[nextNextIdx], nextIdx});
-            }
+            int j = next_idx[i];
+            int left = prev_idx[i];
+            int right = next_idx[j];
 
+            bad_cnt -= bad_edge(left);
+            bad_cnt -= bad_edge(i);
+            bad_cnt -= bad_edge(j);
 
-            nums[currIdx] = nums[currIdx] + nums[nextIdx];
+            nums[i] += nums[j];
+            alive[j] = 0;
+            alive_cnt--;
+            ops++;
 
-            nextIndex[currIdx] = nextNextIdx;
-            if(nextNextIdx < n) prevIndex[nextNextIdx] = currIdx;
+            next_idx[i] = right;
+            if (right != -1) prev_idx[right] = i;
 
-            if(prevIdx >= 0){
-                pairSumSet.insert({nums[prevIdx] + nums[currIdx], prevIdx});
-            }
+            bad_cnt += bad_edge(left);
+            bad_cnt += bad_edge(i);
 
-            if(nextNextIdx < n){
-                pairSumSet.insert({nums[currIdx] + nums[nextNextIdx], currIdx});
-            }
-
-            mergeOperations++;
+            if (left != -1) pq.push({nums[left] + nums[i], left});
+            if (right != -1) pq.push({nums[i] + nums[right], i});
         }
-        return mergeOperations;
+
+        return ops;
     }
 };
