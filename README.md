@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Viprakshi/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Viprakshi/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/Viprakshi/Leetcode/tree/master/1816-truncate-sentence) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Viprakshi/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Viprakshi/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Viprakshi/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Viprakshi/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Viprakshi/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/Viprakshi/Leetcode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Viprakshi/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Viprakshi/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Viprakshi/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Viprakshi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Viprakshi/Leetcode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Viprakshi/Leetcode/tree/master/0890-lemonade-change) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Viprakshi/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Viprakshi/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Viprakshi/Leetcode/tree/master/0455-assign-cookies) |
 | [1184-car-pooling](https://github.com/Viprakshi/Leetcode/tree/master/1184-car-pooling) |
 | [1859-sorting-the-sentence](https://github.com/Viprakshi/Leetcode/tree/master/1859-sorting-the-sentence) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Viprakshi/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Viprakshi/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Divide and Conquer
 |  |
