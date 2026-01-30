@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Viprakshi/Leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Viprakshi/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Viprakshi/Leetcode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/Viprakshi/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0279-perfect-squares](https://github.com/Viprakshi/Leetcode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Viprakshi/Leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Viprakshi/Leetcode/tree/master/1013-fibonacci-number) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Viprakshi/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Viprakshi/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Viprakshi/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/Viprakshi/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0657-robot-return-to-origin](https://github.com/Viprakshi/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0822-unique-morse-code-words](https://github.com/Viprakshi/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Viprakshi/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
