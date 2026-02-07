@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Viprakshi/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Viprakshi/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Viprakshi/Leetcode/tree/master/1528-shuffle-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Viprakshi/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Viprakshi/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Viprakshi/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Viprakshi/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Viprakshi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/Viprakshi/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Viprakshi/Leetcode/tree/master/1013-fibonacci-number) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Viprakshi/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Viprakshi/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3640-trionic-array-ii](https://github.com/Viprakshi/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Viprakshi/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Viprakshi/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Viprakshi/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Viprakshi/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Viprakshi/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Tree
 |  |
 | ------- |
