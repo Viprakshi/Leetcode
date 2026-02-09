@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Viprakshi/Leetcode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Viprakshi/Leetcode/tree/master/0890-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Viprakshi/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1382-balance-a-binary-search-tree](https://github.com/Viprakshi/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Viprakshi/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Viprakshi/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1903-largest-odd-number-in-string](https://github.com/Viprakshi/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Viprakshi/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Viprakshi/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Viprakshi/Leetcode/tree/master/0169-majority-element) |
+| [1382-balance-a-binary-search-tree](https://github.com/Viprakshi/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Viprakshi/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Viprakshi/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Viprakshi/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/Viprakshi/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Viprakshi/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0547-number-of-provinces](https://github.com/Viprakshi/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Viprakshi/Leetcode/tree/master/0733-flood-fill) |
+| [1382-balance-a-binary-search-tree](https://github.com/Viprakshi/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Viprakshi/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Viprakshi/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Viprakshi/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/Viprakshi/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -374,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Viprakshi/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Viprakshi/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
