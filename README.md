@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Viprakshi/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Viprakshi/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Viprakshi/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Viprakshi/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1528-shuffle-string](https://github.com/Viprakshi/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Viprakshi/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/Viprakshi/Leetcode/tree/master/1816-truncate-sentence) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/Viprakshi/Leetcode/tree/master/0761-special-binary-string) |
 | [1184-car-pooling](https://github.com/Viprakshi/Leetcode/tree/master/1184-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/Viprakshi/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Viprakshi/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1859-sorting-the-sentence](https://github.com/Viprakshi/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Viprakshi/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Viprakshi/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Viprakshi/Leetcode/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Viprakshi/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Viprakshi/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Viprakshi/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Viprakshi/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3713-longest-balanced-substring-i](https://github.com/Viprakshi/Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/Viprakshi/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Viprakshi/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Viprakshi/Leetcode/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Viprakshi/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Viprakshi/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Viprakshi/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Viprakshi/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
