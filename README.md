@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Viprakshi/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Viprakshi/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Viprakshi/Leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Viprakshi/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Viprakshi/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1528-shuffle-string](https://github.com/Viprakshi/Leetcode/tree/master/1528-shuffle-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Viprakshi/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Viprakshi/Leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Viprakshi/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1184-car-pooling](https://github.com/Viprakshi/Leetcode/tree/master/1184-car-pooling) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Viprakshi/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Viprakshi/Leetcode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [3379-transformed-array](https://github.com/Viprakshi/Leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Viprakshi/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Viprakshi/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Viprakshi/Leetcode/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Viprakshi/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Viprakshi/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Viprakshi/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Viprakshi/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Viprakshi/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
