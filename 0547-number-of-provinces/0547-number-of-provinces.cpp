@@ -1,25 +1,34 @@
 class Solution {
 public:
-    void dfs(int city, vector<vector<int>>& isConnected, vector<int>& vis) {
-        vis[city] = 1;
-        for (int next = 0; next < isConnected.size(); next++) {
-            if (isConnected[city][next] == 1 && !vis[next]) {
-                dfs(next, isConnected, vis);
-            }
+    void dfs(int node, vector<int> adjlist[], vector<int>& visited){
+        visited[node]=1;
+        
+        for(auto i: adjlist[node]){
+            if(!visited[i])
+            dfs(i,adjlist,visited);
         }
     }
-
     int findCircleNum(vector<vector<int>>& isConnected) {
-        int n = isConnected.size();
-        vector<int> vis(n, 0);
-        int provinces = 0;
-
-        for (int i = 0; i < n; i++) {
-            if (!vis[i]) {
-                provinces++;
-                dfs(i, isConnected, vis);
+        // matrix --> list 
+        int n= isConnected.size();
+        vector<int> adjlist[n];
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                if(isConnected[i][j]==1){
+                    adjlist[i].push_back(j);
+                    adjlist[j].push_back(i);
+                }
             }
         }
-        return provinces;
+        //count 
+        int count=0;
+        vector<int> visited(n,0);
+        for(int i=0;i<n;i++){
+            if(!visited[i]){
+                count++;
+                dfs(i,adjlist,visited);
+            }
+        }
+        return count;
     }
 };
