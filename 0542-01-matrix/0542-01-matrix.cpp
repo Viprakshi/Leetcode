@@ -10,16 +10,11 @@ public:
             for(int j=0; j<n; j++){
                 if(mat[i][j]==0){
                     vis[i][j]=1;
-                }
-            }
-        }
-        for(int i=0; i<m;i++){
-            for(int j=0; j<n; j++){
-                if(vis[i][j]==1){
                     q.push({{i,j},0});
                 }
             }
         }
+        
         vector<int> deltarow={-1,0,1,0};
         vector<int> deltacol={0,1,0,-1};
         while(!q.empty()){
