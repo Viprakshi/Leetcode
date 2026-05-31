@@ -1,21 +1,18 @@
 class Solution {
 public:
-    int findContentChildren(vector<int>& children, vector<int>& cookies) {
-        sort(children.begin(), children.end());
-	sort(cookies.begin(), cookies.end());
-	int left=0, right=0,ans=0; 
-	while(left<children.size() && right<cookies.size()){
-		if(children[left]<=cookies[right]){
-			ans++;
-			right++;
-            left++;
+    int findContentChildren(vector<int>& g, vector<int>& s) {
+        sort(g.begin(), g.end());
+        sort(s.begin(), s.end());
+        int right=0, left=0, ans=0;
+        while(left<g.size() && right<s.size()){
+            if(g[left]<=s[right]){
+                ans++;
+                left++;
+               
+            }
+            right++;
 
-		}
-		else{
-			    right++;
-
-		}
-}
-	return ans;
+        }
+        return ans;
     }
 };
