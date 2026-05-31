@@ -35,24 +35,17 @@ public:
         }
     }
 
-    vector<vector<string>> findLadders(string beginWord,
-                                       string endWord,
-                                       vector<string>& wordList) {
+    vector<vector<string>> findLadders(string beginWord,string endWord,vector<string>& wordList) {
 
         unordered_set<string> st(wordList.begin(), wordList.end());
-
         if (st.find(endWord) == st.end())
             return {};
-
         queue<string> q;
         q.push(beginWord);
-
         level[beginWord] = 0;
-
         st.erase(beginWord);
 
         while (!q.empty()) {
-
             string word = q.front();
             q.pop();
 
@@ -62,35 +55,23 @@ public:
                 break;
 
             for (int i = 0; i < word.size(); i++) {
-
                 char original = word[i];
-
                 for (char ch = 'a'; ch <= 'z'; ch++) {
-
                     word[i] = ch;
-
                     if (st.find(word) != st.end()) {
-
                         q.push(word);
-
                         level[word] = steps + 1;
-
                         st.erase(word);
                     }
                 }
-
-                word[i] = original;
+                  word[i] = original;
             }
         }
-
         if (level.find(endWord) != level.end()) {
-
             vector<string> path;
             path.push_back(endWord);
-
             dfs(endWord, beginWord, path);
         }
-
         return ans;
     }
 };
