@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Viprakshi/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Viprakshi/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Viprakshi/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/Viprakshi/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/Viprakshi/Leetcode/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/Viprakshi/Leetcode/tree/master/1184-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/Viprakshi/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Viprakshi/Leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Viprakshi/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Viprakshi/Leetcode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Viprakshi/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Viprakshi/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3227-find-missing-and-repeated-values](https://github.com/Viprakshi/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Viprakshi/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Viprakshi/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Viprakshi/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Viprakshi/Leetcode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Viprakshi/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Viprakshi/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Viprakshi/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Viprakshi/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Viprakshi/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Viprakshi/Leetcode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Viprakshi/Leetcode/tree/master/1020-number-of-enclaves) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Viprakshi/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Memoization
 |  |
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Viprakshi/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Viprakshi/Leetcode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Viprakshi/Leetcode/tree/master/1020-number-of-enclaves) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Viprakshi/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Graph Theory
 |  |
