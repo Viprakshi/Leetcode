@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Viprakshi/Leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Viprakshi/Leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Viprakshi/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0126-word-ladder-ii](https://github.com/Viprakshi/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Viprakshi/Leetcode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Viprakshi/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Viprakshi/Leetcode/tree/master/0169-majority-element) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Viprakshi/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Viprakshi/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Viprakshi/Leetcode/tree/master/0067-add-binary) |
+| [0126-word-ladder-ii](https://github.com/Viprakshi/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Viprakshi/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Viprakshi/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Viprakshi/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Viprakshi/Leetcode/tree/master/0022-generate-parentheses) |
+| [0126-word-ladder-ii](https://github.com/Viprakshi/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0401-binary-watch](https://github.com/Viprakshi/Leetcode/tree/master/0401-binary-watch) |
 ## Greedy
 |  |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Viprakshi/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Viprakshi/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0126-word-ladder-ii](https://github.com/Viprakshi/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Viprakshi/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Viprakshi/Leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Viprakshi/Leetcode/tree/master/0207-course-schedule) |
