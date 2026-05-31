@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Viprakshi/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Viprakshi/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0657-robot-return-to-origin](https://github.com/Viprakshi/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/Viprakshi/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Viprakshi/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Viprakshi/Leetcode/tree/master/0761-special-binary-string) |
 | [0822-unique-morse-code-words](https://github.com/Viprakshi/Leetcode/tree/master/0822-unique-morse-code-words) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Viprakshi/Leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Viprakshi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Viprakshi/Leetcode/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/Viprakshi/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/Viprakshi/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/Viprakshi/Leetcode/tree/master/0799-champagne-tower) |
 | [1013-fibonacci-number](https://github.com/Viprakshi/Leetcode/tree/master/1013-fibonacci-number) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Viprakshi/Leetcode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Viprakshi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Viprakshi/Leetcode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Viprakshi/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Viprakshi/Leetcode/tree/master/0860-lemonade-change) |
 | [0890-lemonade-change](https://github.com/Viprakshi/Leetcode/tree/master/0890-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Viprakshi/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Viprakshi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Viprakshi/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Viprakshi/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/Viprakshi/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Viprakshi/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Viprakshi/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Viprakshi/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
