@@ -11,6 +11,6 @@ public:
             }
             right++;
         }
-        return ans;
+        return left;
     }
 };
