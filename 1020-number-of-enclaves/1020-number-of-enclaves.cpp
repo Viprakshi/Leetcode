@@ -1,9 +1,10 @@
 class Solution {
 public:
+    vector<int> deltarow={-1,0,1,0};
+    vector<int> deltacol={0,1,0,-1};
     void dfs(int x, int y, vector<vector<int>>& vis, vector<vector<int>>& grid){
         vis[x][y]=1;
-        vector<int> deltarow={-1,0,1,0};
-        vector<int> deltacol={0,1,0,-1};
+        
         for(int i=0;i<4;i++){
             int nr=x+deltarow[i];
             int nc=y+deltacol[i];
