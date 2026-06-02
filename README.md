@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Viprakshi/Leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Viprakshi/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Viprakshi/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Viprakshi/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Viprakshi/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Viprakshi/Leetcode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Viprakshi/Leetcode/tree/master/3640-trionic-array-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Viprakshi/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Viprakshi/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Viprakshi/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Viprakshi/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Viprakshi/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Viprakshi/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Viprakshi/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Viprakshi/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Viprakshi/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Viprakshi/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Viprakshi/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Viprakshi/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Viprakshi/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Divide and Conquer
 |  |
@@ -419,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Viprakshi/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Viprakshi/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Viprakshi/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Viprakshi/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Union-Find
 |  |
 | ------- |
