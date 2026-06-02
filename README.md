@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Viprakshi/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Viprakshi/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Viprakshi/Leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Viprakshi/Leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Viprakshi/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/Viprakshi/Leetcode/tree/master/0126-word-ladder-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Viprakshi/Leetcode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Viprakshi/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Viprakshi/Leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Viprakshi/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Viprakshi/Leetcode/tree/master/0070-climbing-stairs) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Viprakshi/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Viprakshi/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/Viprakshi/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/Viprakshi/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Viprakshi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Viprakshi/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Viprakshi/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
