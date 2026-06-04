@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Viprakshi/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Viprakshi/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/Viprakshi/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Viprakshi/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1127-last-stone-weight](https://github.com/Viprakshi/Leetcode/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/Viprakshi/Leetcode/tree/master/1184-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/Viprakshi/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Viprakshi/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Viprakshi/Leetcode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/Viprakshi/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Viprakshi/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Viprakshi/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3227-find-missing-and-repeated-values](https://github.com/Viprakshi/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Viprakshi/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Viprakshi/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Viprakshi/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Viprakshi/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Viprakshi/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Viprakshi/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Memoization
 |  |
