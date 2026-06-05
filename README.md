@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Viprakshi/Leetcode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Viprakshi/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Viprakshi/Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Viprakshi/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0560-subarray-sum-equals-k](https://github.com/Viprakshi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0822-unique-morse-code-words](https://github.com/Viprakshi/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0904-fruit-into-baskets](https://github.com/Viprakshi/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Viprakshi/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Viprakshi/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Viprakshi/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/Viprakshi/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0657-robot-return-to-origin](https://github.com/Viprakshi/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Viprakshi/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Viprakshi/Leetcode/tree/master/0696-count-binary-substrings) |
