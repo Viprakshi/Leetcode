@@ -11,21 +11,18 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        if (head == NULL || head->next == NULL) return head;
-        ListNode *prev=head, *curr=head->next, *next=curr->next;
-        head->next=NULL;
-        while(curr)
-        {
-            
+        if(head==nullptr || head->next ==nullptr) return head;
+        ListNode *prev= nullptr;
+        ListNode *curr= head;
+        ListNode *nxt= head->next;
+
+        while(curr!=nullptr ){
             curr->next=prev;
             prev=curr;
-            curr=next;
-            if (curr) next = curr->next;
-            
-
+            curr=nxt;
+            if(nxt!=nullptr)
+            nxt=curr->next;
         }
-        
-        
         return prev;
     }
 };
