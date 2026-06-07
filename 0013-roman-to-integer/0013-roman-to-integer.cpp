@@ -11,16 +11,16 @@ public:
             {'D',500},
             {'M',1000}
         };
-        int ans=0;
-        for(int i = 0; i < s.size(); i++) {
-            if(mp[s[i]]<mp[s[i+1]]) {
-                ans-=mp[s[i]];
+
+        int res=mp[s[0]];
+        for(int i=1;i<s.length();i++){
+            if(mp[s[i]]>mp[s[i-1]]){
+                res-=2*mp[s[i-1]];
             }
-            else{
-                ans += mp[s[i]];
-            }
+            res+=mp[s[i]];
         }
 
-        return ans;
+        return res;
+        
     }
 };
