@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Viprakshi/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Viprakshi/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Viprakshi/Leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Viprakshi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Viprakshi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0822-unique-morse-code-words](https://github.com/Viprakshi/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0904-fruit-into-baskets](https://github.com/Viprakshi/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Viprakshi/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Viprakshi/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Viprakshi/Leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Viprakshi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0657-robot-return-to-origin](https://github.com/Viprakshi/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Viprakshi/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Viprakshi/Leetcode/tree/master/0696-count-binary-substrings) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Viprakshi/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Viprakshi/Leetcode/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/Viprakshi/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/Viprakshi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Viprakshi/Leetcode/tree/master/0455-assign-cookies) |
 | [0761-special-binary-string](https://github.com/Viprakshi/Leetcode/tree/master/0761-special-binary-string) |
 | [1184-car-pooling](https://github.com/Viprakshi/Leetcode/tree/master/1184-car-pooling) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Viprakshi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/Viprakshi/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Viprakshi/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1127-last-stone-weight](https://github.com/Viprakshi/Leetcode/tree/master/1127-last-stone-weight) |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Viprakshi/Leetcode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Viprakshi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Viprakshi/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Viprakshi/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Viprakshi/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -608,4 +613,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Viprakshi/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Viprakshi/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Viprakshi/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Viprakshi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
