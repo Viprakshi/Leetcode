@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Viprakshi/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Viprakshi/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Viprakshi/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Viprakshi/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Viprakshi/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Viprakshi/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Viprakshi/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Viprakshi/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Viprakshi/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Viprakshi/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Viprakshi/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Viprakshi/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Viprakshi/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Viprakshi/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/Viprakshi/Leetcode/tree/master/1184-car-pooling) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Viprakshi/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Viprakshi/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Viprakshi/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/Viprakshi/Leetcode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [3379-transformed-array](https://github.com/Viprakshi/Leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Viprakshi/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
