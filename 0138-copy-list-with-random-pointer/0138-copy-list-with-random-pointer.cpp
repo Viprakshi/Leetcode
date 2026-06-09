@@ -1,81 +1,43 @@
-/*
-// Definition for a Node.
-class Node {
-public:
-    int val;
-    Node* next;
-    Node* random;
-    
-    Node(int _val) {
-        val = _val;
-        next = NULL;
-        random = NULL;
-    }
-};
-*/
-
 class Solution {
 public:
-    void insertCopyInBetween(Node* head){
-    Node* temp = head;
-    while(temp != NULL){
-        Node* nextElement = temp->next;
-        Node* copy = new Node(temp->val);  
-        copy->next = nextElement;  
-        temp->next = copy;         
-        temp = nextElement;         
-    }
-}
+    Node* copyRandomList(Node* head) {
 
-void connectRandomPointers(Node* head){
-    Node* temp = head;
-    while(temp != NULL){
-        Node* copyNode = temp->next;    
-        if(temp->random){   
-            copyNode->random = temp->random->next; 
+        if(head == NULL) return NULL;
+
+        Node* temp = head;
+
+        while(temp) {
+            Node* copy = new Node(temp->val);
+
+            copy->next = temp->next;
+            temp->next = copy;
+
+            temp = copy->next;
         }
-        else{
-            copyNode->random = NULL;   
+        temp = head;
+
+        while(temp) {
+            if(temp->random)
+                temp->next->random = temp->random->next;
+
+            temp = temp->next->next;
         }
-        temp = temp->next->next;   
-    }
-}
+        Node* dummy = new Node(-1);
+        Node* copyTail = dummy;
 
+        temp = head;
 
-Node* getDeepCopyList(Node* head){
-    Node* temp = head;
-    Node* dummyNode = new Node(-1);   
-    Node* res = dummyNode;             
+        while(temp) {
 
-    while(temp != NULL){
-        res->next = temp->next;
-        res = res->next;
-        temp->next = temp->next->next;
-        temp = temp->next;
-    }
-    return dummyNode->next;   
-}
+            Node* copy = temp->next;
 
+            copyTail->next = copy;
+            copyTail = copy;
 
-Node *copyRandomList(Node *head){
-    if(!head) return nullptr;   
-    insertCopyInBetween(head); 
-    connectRandomPointers(head);  
-    return getDeepCopyList(head); 
-}
-
-void printClonedLinkedList(Node *head) {
-    while (head != nullptr) {
-        cout << "Data: " << head->val;
-        if (head->random != nullptr) {
-            cout << ", Random: " << head->random->val;
-        } else {
-            cout << ", Random: nullptr";
+            temp->next = copy->next;
+            temp = temp->next;
         }
-        cout << endl;
-        head = head->next;  
+
+        return dummy->next;
     }
-}
-
-
 };
