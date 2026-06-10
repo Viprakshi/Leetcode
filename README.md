@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Viprakshi/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Viprakshi/Leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Viprakshi/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Viprakshi/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Viprakshi/Leetcode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Viprakshi/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Viprakshi/Leetcode/tree/master/0048-rotate-image) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Viprakshi/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Viprakshi/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Viprakshi/Leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Viprakshi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Viprakshi/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Viprakshi/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
