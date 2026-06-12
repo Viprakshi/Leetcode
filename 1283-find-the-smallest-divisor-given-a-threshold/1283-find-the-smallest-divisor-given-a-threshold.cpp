@@ -1,26 +1,24 @@
 class Solution {
 public:
-    int div(vector<int>& nums, int d) {
-        int sum = 0;
-        for (int x : nums)
-            sum += (x + d - 1) / d;
-        return sum;
+    int calculate(int divisor, int threshold, vector<int>& nums){
+        int val=0;
+        for(int num: nums){
+            val+=ceil((double)num/divisor);
+        }
+        return val;
     }
-
     int smallestDivisor(vector<int>& nums, int threshold) {
-        int low = 1, high = *max_element(nums.begin(), nums.end());
-        int ans = high;
-
-        while (low <= high) {
-            int mid = (low + high) / 2;
-            int val = div(nums, mid);
-
-            if (val <= threshold) {
-                ans = mid;
-                high = mid - 1;
-            } else {
-                low = mid + 1;
+        int left=1, right=*max_element(nums.begin(),nums.end());
+        int ans=-1;
+        while(left<=right){
+            int mid=left+(right-left)/2;
+            int value=calculate(mid,threshold,nums);
+            if(value<=threshold){
+                ans=mid;
+                right=mid-1;
             }
+            else left=mid+1;
+
         }
         return ans;
     }
