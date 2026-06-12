@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Viprakshi/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Viprakshi/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Viprakshi/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Viprakshi/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Viprakshi/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Viprakshi/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Viprakshi/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Viprakshi/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Viprakshi/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Viprakshi/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Viprakshi/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Viprakshi/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Viprakshi/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Viprakshi/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Viprakshi/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Viprakshi/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Viprakshi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Viprakshi/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Viprakshi/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Viprakshi/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Viprakshi/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Viprakshi/Leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Viprakshi/Leetcode/tree/master/0190-reverse-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Viprakshi/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0401-binary-watch](https://github.com/Viprakshi/Leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Viprakshi/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Viprakshi/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
