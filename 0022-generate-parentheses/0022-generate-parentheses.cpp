@@ -1,21 +1,22 @@
 class Solution {
 public:
-    vector<string> generateParenthesis(int n) {
-      vector<string> res;
-      generate(n,"",res,0,0);
-      return res;  
-    }
-    void generate(int n, string curr, vector<string>& res, int open_count,int close_count){
-        if(curr.length()==2*n){
-            res.push_back(curr);
+    void generate(int n, int open, int close, string s, vector<string>& ans){
+        if(open==n && close==n){
+            ans.push_back(s);
             return;
         }
-        if(open_count<n){
-            generate(n,curr+"(",res,open_count+1,close_count);
+
+        if(open<n){
+            generate(n,open+1,close,s+"(",ans);
         }
-        if(close_count<open_count){
-            generate(n,curr+")",res,open_count,close_count+1);
+        if(close<n && close<open){
+            generate(n,open,close+1,s+")",ans);
         }
 
+    }
+    vector<string> generateParenthesis(int n) {
+        vector<string> ans;
+        generate(n, 0,0, "", ans);
+        return ans;
     }
 };
