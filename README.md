@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Viprakshi/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Viprakshi/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Viprakshi/Leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Viprakshi/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Viprakshi/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Viprakshi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Viprakshi/Leetcode/tree/master/0090-subsets-ii) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Viprakshi/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Viprakshi/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Viprakshi/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Viprakshi/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Viprakshi/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Viprakshi/Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Viprakshi/Leetcode/tree/master/0542-01-matrix) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Viprakshi/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Viprakshi/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Viprakshi/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Viprakshi/Leetcode/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/Viprakshi/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Viprakshi/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Viprakshi/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Viprakshi/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Viprakshi/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Viprakshi/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/Viprakshi/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Viprakshi/Leetcode/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/Viprakshi/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/Viprakshi/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -446,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Viprakshi/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Viprakshi/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Viprakshi/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Viprakshi/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
