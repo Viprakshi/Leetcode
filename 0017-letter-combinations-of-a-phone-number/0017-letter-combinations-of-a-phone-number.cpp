@@ -1,33 +1,25 @@
 class Solution {
 public:
-    vector<string> ans;
-
-    void solve(int idx, string digits, string curr,
-               vector<string>& mp) {
-
-        if(idx == digits.size()) {
-            ans.push_back(curr);
+    void generate(string temp,vector<string>& ans,string digits,int pos,vector<string>mp){
+        if(pos>=digits.length()){
+            ans.push_back(temp);
             return;
         }
-
-        string letters = mp[digits[idx] - '0'];
-
-        for(char ch : letters) {
-            solve(idx + 1, digits, curr + ch, mp);
-        }
+        int d=digits[pos]-'0'; //2
+        
+            for(char ch:mp[d]){
+                
+                generate(temp+ch,ans,digits,pos+1,mp);
+            }
     }
-
     vector<string> letterCombinations(string digits) {
-
-        if(digits.empty()) return {};
-
+        vector<string> ans;
         vector<string> mp = {
             "", "", "abc", "def", "ghi",
             "jkl", "mno", "pqrs", "tuv", "wxyz"
         };
 
-        solve(0, digits, "", mp);
-
+        generate("",ans,digits,0,mp);
         return ans;
     }
 };
