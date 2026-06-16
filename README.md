@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Viprakshi/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Viprakshi/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Viprakshi/Leetcode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Viprakshi/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Viprakshi/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0761-special-binary-string](https://github.com/Viprakshi/Leetcode/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Viprakshi/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Viprakshi/Leetcode/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/Viprakshi/Leetcode/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/Viprakshi/Leetcode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Viprakshi/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Viprakshi/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0401-binary-watch](https://github.com/Viprakshi/Leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Viprakshi/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
