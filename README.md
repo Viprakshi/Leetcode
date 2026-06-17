@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Viprakshi/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/Viprakshi/Leetcode/tree/master/1013-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Viprakshi/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1486-xor-operation-in-an-array](https://github.com/Viprakshi/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Viprakshi/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Viprakshi/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Viprakshi/Leetcode/tree/master/1922-count-good-numbers) |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Viprakshi/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Viprakshi/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Viprakshi/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1486-xor-operation-in-an-array](https://github.com/Viprakshi/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Viprakshi/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Viprakshi/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Viprakshi/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
