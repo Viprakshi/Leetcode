@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Viprakshi/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Viprakshi/Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Viprakshi/Leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Viprakshi/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Viprakshi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Viprakshi/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Viprakshi/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Viprakshi/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Viprakshi/Leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Viprakshi/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0204-count-primes](https://github.com/Viprakshi/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Viprakshi/Leetcode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Viprakshi/Leetcode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Viprakshi/Leetcode/tree/master/0326-power-of-three) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Viprakshi/Leetcode/tree/master/0204-count-primes) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Viprakshi/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3713-longest-balanced-substring-i](https://github.com/Viprakshi/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Viprakshi/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -797,5 +800,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Viprakshi/Leetcode/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Viprakshi/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
