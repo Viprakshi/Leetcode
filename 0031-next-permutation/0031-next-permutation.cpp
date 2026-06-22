@@ -1,29 +1,24 @@
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
-        int n=nums.size();
-        int i=n-2;
-        //1. find break point
-        while(i>=0 && nums[i]>=nums[i+1]){
-            i--;
-        }
-
-        if(i<0){
-            reverse(nums.begin(),nums.end());
-        } //reverse whole array
-        
-        else{
-            //2. find elem greater than pivot and smallest 
-        int j=n-1;
-        while (nums[j] <= nums[i]) {
-                j--;
+        int ind=-1;
+        for(int i=nums.size()-2;i>=0;i--){
+            if(nums[i]<nums[i+1]){
+                ind=i;
+                break;
             }
-
-        swap(nums[i],nums[j]);
-
-        //3. reverse after i
-        reverse(nums.begin()+i+1,nums.end());
         }
-        
+        if(ind==-1){
+            reverse(nums.begin(),nums.end());
+        }
+        else{
+            for(int i=nums.size()-1;i>=ind+1;i--){
+                if(nums[i]>nums[ind]){
+                    swap(nums[i],nums[ind]);
+                    break;
+                }
+            }
+            reverse(nums.begin()+ind+1, nums.end());
+        }
     }
 };
