@@ -1,14 +1,21 @@
 class Solution {
 public:
-    vector<vector<int>> generate(int numRows) {
-        vector<vector<int>> triangle;
-        for(int i=0;i<numRows;i++){
-            vector<int> row(i+1,1);
-            for(int j=1;j<i;j++){
-                row[j]=triangle[i-1][j-1]+triangle[i-1][j];
-            }
-            triangle.push_back(row);
+    vector<int> generate_row(int n){
+        int ans=1;
+        vector<int> row;
+        for(int i=1;i<=n;i++){
+            row.push_back(ans);
+            ans=ans*(n-i);
+            ans=ans/(i);  
         }
-        return triangle;
+        return row;
+    }
+    vector<vector<int>> generate(int numRows) {
+        vector<vector<int>> ans;
+        for(int i=1;i<=numRows;i++){
+            vector<int> row=generate_row(i);
+            ans.push_back(row);
+        }
+        return ans;
     }
 };
