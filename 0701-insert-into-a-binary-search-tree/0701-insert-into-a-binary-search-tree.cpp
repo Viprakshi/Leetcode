@@ -12,17 +12,18 @@
 class Solution {
 public:
     TreeNode* insertIntoBST(TreeNode* root, int val) {
-        TreeNode* ans = root;
-         TreeNode* new_node = new TreeNode(val);
-            TreeNode* parent = nullptr;          // + track parent
-            while (root) {                       // * just check root
-                parent = root;                   // + save before moving
-                if (root->val > val) root = root->left;
-                else root = root->right;
-            }
-            if (!parent) return new_node;        // * empty tree edge case
-            if (val < parent->val) parent->left = new_node;   // * attach to parent
-            else parent->right = new_node;
-            return ans;
+        TreeNode* nn=new TreeNode(val);
+        TreeNode* ans=root;
+        TreeNode* parent=NULL;
+        while(root){
+            parent=root;
+            if(val<parent->val) root=root->left;
+            else root=root->right;
+        }
+        if(parent==NULL) return nn;
+        if(val<parent->val) parent->left=nn;
+        else parent->right=nn;
+        return ans;
+
     }
 };
