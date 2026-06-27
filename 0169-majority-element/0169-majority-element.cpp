@@ -1,20 +1,17 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int curr=nums[0];
-        int cnt=1;
+        int cnt=1, ans=nums[0];
         for(int i=1;i<nums.size();i++){
-            if(nums[i]==curr){
-                cnt++;
-            }
+            if(nums[i]==ans) cnt++;
             else{
                 cnt--;
                 if(cnt==0){
-                    curr=nums[i];
-                    cnt=1;
+                    cnt++;
+                    ans=nums[i];
                 }
             }
         }
-        return curr;
+        return ans;
     }
 };
