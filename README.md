@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Viprakshi/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Viprakshi/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Viprakshi/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Viprakshi/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Viprakshi/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3227-find-missing-and-repeated-values](https://github.com/Viprakshi/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Viprakshi/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Viprakshi/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Viprakshi/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Viprakshi/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Viprakshi/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3227-find-missing-and-repeated-values](https://github.com/Viprakshi/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Viprakshi/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Viprakshi/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -802,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Viprakshi/Leetcode/tree/master/0204-count-primes) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Viprakshi/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Viprakshi/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3713-longest-balanced-substring-i](https://github.com/Viprakshi/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Viprakshi/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Geometry
