@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Viprakshi/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Viprakshi/Leetcode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Viprakshi/Leetcode/tree/master/0279-perfect-squares) |
+| [0282-expression-add-operators](https://github.com/Viprakshi/Leetcode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/Viprakshi/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Viprakshi/Leetcode/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/Viprakshi/Leetcode/tree/master/0507-perfect-number) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Viprakshi/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Viprakshi/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Viprakshi/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/Viprakshi/Leetcode/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/Viprakshi/Leetcode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Viprakshi/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0657-robot-return-to-origin](https://github.com/Viprakshi/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Viprakshi/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/Viprakshi/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Viprakshi/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/Viprakshi/Leetcode/tree/master/0282-expression-add-operators) |
 | [0401-binary-watch](https://github.com/Viprakshi/Leetcode/tree/master/0401-binary-watch) |
 | [0980-unique-paths-iii](https://github.com/Viprakshi/Leetcode/tree/master/0980-unique-paths-iii) |
 ## Greedy
