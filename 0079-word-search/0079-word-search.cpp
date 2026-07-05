@@ -1,34 +1,26 @@
 class Solution {
 public:
-    bool dfs(vector<vector<char>>& board,string word,int x, int j,vector<vector<int>>& vis,int pos){
-        if(pos==word.length()-1) return true;
-        vis[x][j]=1;
-        vector<int> row={0,-1,0,1};
-        vector<int> col={-1,0,1,0};
-        
-        for(int i=0;i<4;i++){
-            int x_row=x+row[i];
-            int x_col=j+col[i];
-            
-            if(x_row<0 || x_col<0 || x_row>=board.size() || x_col>=board[0].size()) continue;
-            else if(!vis[x_row][x_col] && board[x_row][x_col]==word[pos+1]){
-                if(dfs(board,word,x_row,x_col,vis,pos+1)) return true;
-            }
-
+    bool check(vector<vector<char>>& board, int i, int j, string word, string curr,vector<vector<int>>& vis, int ind)
+    {
+        if(ind==word.length()) return true;
+        if(i<0 || j<0 || i>=board.size() || j>=board[0].size() || vis[i][j]==1 || board[i][j]!=word[ind])
+        {
+            return false;
         }
-        vis[x][j]=0;
-        
-        return false;
-
+        if(curr==word) return true;
+        vis[i][j]=1;
+        bool left=check(board, i, j-1, word, curr+board[i][j],vis,ind+1);
+        bool right=check(board, i, j+1, word, curr+board[i][j],vis,ind+1);
+        bool up=check(board, i-1, j, word, curr+board[i][j],vis,ind+1);
+        bool down=check(board, i+1, j, word, curr+board[i][j],vis,ind+1);
+        vis[i][j]=0;
+        return up || down || left || right;
     }
     bool exist(vector<vector<char>>& board, string word) {
-        int m=board.size(), n=board[0].size();
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(board[i][j]==word[0]){
-                    vector<vector<int>> vis(m,vector<int>(n,0));
-                    if(dfs(board,word,i,j,vis,0)) return true;
-                }
+        vector<vector<int>> vis(board.size(), vector<int>(board[0].size(),0));
+        for(int i=0;i<board.size();i++){
+            for(int j=0;j<board[i].size();j++){
+                if(check(board, i, j, word,"",vis,0)) return true;
             }
         }
         return false;
