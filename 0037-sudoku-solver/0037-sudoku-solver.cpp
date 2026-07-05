@@ -1,49 +1,39 @@
 class Solution {
 public:
-    vector<vector<int>> ans;
-    bool isValid(vector<vector<char>>& board, int x, int y, char m){
-        //horizontal
-        for(int i=0;i<9;i++){
-            if(board[x][i]==m) return false; 
+    bool isValid(vector<vector<char>>& board,int i, int j, int k){
+        for(int x=0;x<9;x++){
+            if(board[i][x]==k+'0') return false;
         }
-        //vertical
-        for(int j=0;j<9;j++){
-            if(board[j][y]==m) return false;
+        for(int x=0;x<9;x++){
+            if(board[x][j]==k+'0') return false;
         }
-        int r=3*(x/3);
-        int c=3*(y/3);
-
-        for(int i=0;i<3;i++) {
-            for(int j=0;j<3;j++){
-                if (board[r + i][c + j] == m)
-                    return false;
+        int r=3*(i/3);
+        int c=3*(j/3);
+        for(int x=0;x<3;x++){
+            for(int y=0;y<3;y++){
+                if(board[x+r][y+c]==k+'0') return false;
             }
         }
-
         return true;
-
     }
     bool generate(vector<vector<char>>& board){
         for(int i=0;i<board.size();i++){
-            for(int j=0;j<board[i].size();j++){
+            for(int j=0;j<board[1].size();j++){
                 if(board[i][j]=='.'){
-                    for(char x='1';x<='9';x++){
-                        if(isValid(board, i, j, x)){
-                            board[i][j]=x;
+                    for(int k=1;k<=9;k++){
+                        if(isValid(board, i, j, k)){
+                            board[i][j]=k+'0';
                             if(generate(board)) return true;
                             board[i][j]='.';
                         }
                     }
-                    //if nothing valid
                     return false;
                 }
             }
         }
-        return true;
-
+       return true;
     }
     void solveSudoku(vector<vector<char>>& board) {
         generate(board);
-
     }
 };
