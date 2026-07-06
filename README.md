@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Viprakshi/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Viprakshi/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Viprakshi/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1288-remove-covered-intervals](https://github.com/Viprakshi/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Viprakshi/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/Viprakshi/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Viprakshi/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Viprakshi/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1184-car-pooling](https://github.com/Viprakshi/Leetcode/tree/master/1184-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/Viprakshi/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/Viprakshi/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Viprakshi/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Viprakshi/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1833-maximum-ice-cream-bars](https://github.com/Viprakshi/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
