@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Viprakshi/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Viprakshi/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Viprakshi/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Viprakshi/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3612-process-string-with-special-operations-i](https://github.com/Viprakshi/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Viprakshi/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Viprakshi/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Viprakshi/Leetcode/tree/master/0282-expression-add-operators) |
 | [0401-binary-watch](https://github.com/Viprakshi/Leetcode/tree/master/0401-binary-watch) |
 | [0980-unique-paths-iii](https://github.com/Viprakshi/Leetcode/tree/master/0980-unique-paths-iii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Viprakshi/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
 |  |
 | ------- |
@@ -897,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Viprakshi/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Viprakshi/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Viprakshi/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Viprakshi/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Viprakshi/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Viprakshi/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Viprakshi/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
