@@ -1,53 +1,41 @@
 class Solution {
 public:
-    vector<vector<string>> ans;
-
-    bool safe(vector<string>& board, int row, int col, int n) {
-        // column
-        for(int r=0;r<row;r++) {
-            if(board[r][col]=='Q')
-                return false;
-        }
-        // upper-left diagonal
-        int r=row-1, c=col-1;
-        while(r>=0 && c>=0) {
-            if(board[r][c]=='Q')
-                return false;
-            r--;
-            c--;
-        }
-
-        // upper-right diagonal
-        r=row-1;
-        c=col+1;
-        while(r>=0 && c<n) {
-            if(board[r][c]=='Q')
-                return false;
-           r--;
-            c++;
-        }
-
-        return true;
+    bool isValid(vector<string>& board, int i, int j) {
+    for(int x = 0; x < i; x++) {
+        if(board[x][j] == 'Q')
+            return false;
     }
 
-    void solve(vector<string>& board, int row, int n) {
-        if(row==n) {
+    for(int x = i - 1, y = j - 1; x >= 0 && y >= 0; x--, y--) {
+        if(board[x][y] == 'Q')
+            return false;
+    }
+
+    for(int x = i - 1, y = j + 1; x >= 0 && y < board.size(); x--, y++) {
+        if(board[x][y] == 'Q')
+            return false;
+    }
+
+    return true;
+}
+    void generate(vector<vector<string>>& ans, vector<string>& board, int n, int curr){
+        if(curr==n){
             ans.push_back(board);
             return;
         }
-
-        for(int col=0; col<n; col++) {
-            if(safe(board,row,col,n)) {
-                board[row][col]='Q';
-                solve(board,row+1,n);
-                board[row][col]='.';
+        
+        for(int i=0;i<n;i++){
+            if(isValid(board,curr,i)){
+                board[curr][i]='Q';
+                generate(ans,board,n,curr+1);
+                board[curr][i]='.';
             }
         }
     }
-
     vector<vector<string>> solveNQueens(int n) {
-        vector<string> board(n,string(n,'.'));
-        solve(board,0,n);
+        vector<vector<string>> ans;
+        vector<string> board(n, string(n, '.'));
+        generate(ans,board,n,0);
         return ans;
     }
 };
