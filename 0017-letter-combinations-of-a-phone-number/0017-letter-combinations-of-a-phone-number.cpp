@@ -1,16 +1,13 @@
 class Solution {
 public:
     void generate(string temp,vector<string>& ans,string digits,int pos,vector<string>mp){
-        if(pos>=digits.length()){
+        if(pos==digits.size()){
             ans.push_back(temp);
             return;
         }
-        int d=digits[pos]-'0'; //2
-        
-            for(char ch:mp[d]){
-                
-                generate(temp+ch,ans,digits,pos+1,mp);
-            }
+        for(char x:mp[digits[pos]-'0']){
+            generate(temp+x,ans,digits,pos+1,mp);
+        }
     }
     vector<string> letterCombinations(string digits) {
         vector<string> ans;
