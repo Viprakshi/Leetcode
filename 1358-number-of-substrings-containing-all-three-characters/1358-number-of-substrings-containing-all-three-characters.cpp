@@ -1,23 +1,21 @@
 class Solution {
 public:
-    int numberOfSubstrings(string s) {
-        int a=0, b=0, c=0;
-        int l=0, r=0;
-        int count=0;
-        while(l<=r && r<s.length() ){
-            if(s[r]=='a') a++;
-            if(s[r]=='c') c++;
-            if(s[r]=='b') b++;
-            
-            while(a>0 && b>0 && c>0){
-                count+=(s.length()-r);
-                if(s[l]=='a') a--;
-                if(s[l]=='c') c--;
-                if(s[l]=='b') b--;
-                l++;
+    int atmost(string s, int k){
+        unordered_map<char, int> mpp;
+        int i=0, j=0, ans=0;
+        while(j<s.length()){
+            mpp[s[j]]++;
+            while(mpp.size()>k){
+                mpp[s[i]]--;
+                if(mpp[s[i]]==0) mpp.erase(s[i]);
+                i++;
             }
-            r++;
+            ans+=(j-i+1);
+            j++;
         }
-        return count;
+        return ans;
+    }
+    int numberOfSubstrings(string s) {
+        return atmost(s,3)-atmost(s,2);
     }
 };
