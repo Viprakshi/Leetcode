@@ -11,28 +11,32 @@
  */
 class Solution {
 public:
-    vector<int> levelorder(TreeNode* root, vector<int>& ans){
-        if(root==NULL) return ans;
-        queue<TreeNode*> q;
-        q.push(root);
-        while(!q.empty()){
-            
-            int level=NULL;
-            int x=q.size();
-            for(int i=0;i<x;i++){
-                TreeNode* temp=q.front();
-                q.pop();
-                if(temp->left) q.push(temp->left);
-                if(temp->right) q.push(temp->right);
-                level=temp->val;
-            }
-            ans.push_back(level);
-        }
-        return ans;
-    }
     vector<int> rightSideView(TreeNode* root) {
         vector<int> ans;
-        levelorder(root,ans);
+        if(root==NULL) return ans;
+        map<int, TreeNode*> mpp;
+        queue<pair<int,TreeNode*>> q;
+        q.push({1, root});
+        while(!q.empty()){
+            auto curr=q.front();
+            q.pop();
+            int line=curr.first;
+            TreeNode* temp=curr.second;
+            if(mpp.find(line)==mpp.end()){
+                mpp[line]=temp;
+            }
+            if(temp->right){
+                q.push({line+1,temp->right});
+            }
+            
+            if(temp->left){
+                q.push({line+1,temp->left});
+            }
+        }
+        
+        for(auto entry: mpp){
+            ans.push_back(entry.second->val);
+        }
         return ans;
     }
 };
