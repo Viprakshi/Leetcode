@@ -12,27 +12,25 @@
 class Solution {
 public:
     TreeNode* find(TreeNode* root){
-        if(root==NULL) return root;
-        while(root->right!=NULL)
-        root=root->right;
+        while(root->left){
+            root=root->left;
+        }
         return root;
     }
-    TreeNode* helper(TreeNode* root){
-        if(root==NULL) return root;
+    TreeNode* del(TreeNode* root){
+        if(root==NULL) return NULL;
         if(root->left==NULL && root->right==NULL) return NULL;
         if(root->left==NULL) return root->right;
         if(root->right==NULL) return root->left;
-
-        TreeNode* lastright=find(root->left);
-        lastright->right=root->right;
-        return root->left;
-
+        TreeNode* lastleft=find(root->right);
+        lastleft->left=root->left;
+        return root->right;
     }
     TreeNode* deleteNode(TreeNode* root, int key) {
         if(root==NULL) return root;
-        if(root->val==key) return helper(root);
-        else if(key>root->val) root->right=deleteNode(root->right, key);
-        else root->left= deleteNode(root->left, key);
+        if(root->val==key) return del(root);
+        else if(key>root->val) root->right=deleteNode(root->right,key);
+        else root->left=deleteNode(root->left,key);
         return root;
     }
 };
