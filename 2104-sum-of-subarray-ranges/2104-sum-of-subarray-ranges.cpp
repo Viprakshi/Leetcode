@@ -1,44 +1,102 @@
 class Solution {
 public:
-    long long submin(vector<int>& arr){
-        int n=arr.size();
-        long long ans=0;
-        
+    vector<int> findNSE(vector<int>& nums) {
+        int n = nums.size();
+        vector<int> ans(n);
         stack<int> st;
-        for(int i=0;i<=n;i++){
-            while(!st.empty() && (i==n || arr[st.top()]>=arr[i])){
-                int mid=st.top();
-                st.pop();
-                int left;
-                if(st.empty()) left=-1;
-                else left=st.top();
-                int right=i;
-                ans+=1LL*arr[mid]*(mid-left)*(right-mid);
-            }
-            st.push(i);
 
-        }
-        return ans;
-    }
-    long long submax(vector<int>& arr){
-        int n=arr.size();
-        stack<int> st;
-        long long ans=0;
-        for(int i=0;i<=n;i++){
-            while(!st.empty() && (i==n || arr[st.top()]<=arr[i])){
-                int mid=st.top();
+        for (int i = n - 1; i >= 0; i--) {
+            while (!st.empty() && nums[st.top()] >= nums[i]) {
                 st.pop();
-                int left;
-                if(st.empty()) left=-1;
-                else  left=st.top();
-                int right=i;
-                ans+=1LL*arr[mid]*(mid-left)*(right-mid);
             }
+            ans[i] = st.empty() ? n : st.top();
             st.push(i);
         }
+
         return ans;
     }
+
+    vector<int> findNGE(vector<int>& nums) {
+        int n = nums.size();
+        vector<int> ans(n);
+        stack<int> st;
+
+        for (int i = n - 1; i >= 0; i--) {
+            while (!st.empty() && nums[st.top()] <= nums[i]) {
+                st.pop();
+            }
+            ans[i] = st.empty() ? n : st.top();
+            st.push(i);
+        }
+
+        return ans;
+    }
+
+    vector<int> findPSEE(vector<int>& nums) {
+        int n = nums.size();
+        vector<int> ans(n);
+        stack<int> st;
+
+        for (int i = 0; i < n; i++) {
+            while (!st.empty() && nums[st.top()] > nums[i]) {
+                st.pop();
+            }
+            ans[i] = st.empty() ? -1 : st.top();
+            st.push(i);
+        }
+
+        return ans;
+    }
+
+    vector<int> findPGEE(vector<int>& nums) {
+        int n = nums.size();
+        vector<int> ans(n);
+        stack<int> st;
+
+        for (int i = 0; i < n; i++) {
+            while (!st.empty() && nums[st.top()] < nums[i]) {
+                st.pop();
+            }
+            ans[i] = st.empty() ? -1 : st.top();
+            st.push(i);
+        }
+
+        return ans;
+    }
+
+    long long sumSubarrayMins(vector<int>& nums) {
+        vector<int> nse = findNSE(nums);
+        vector<int> psee = findPSEE(nums);
+
+        int n = nums.size();
+        long long sum = 0;
+
+        for (int i = 0; i < n; i++) {
+            long long left = i - psee[i];
+            long long right = nse[i] - i;
+            sum += left * right * nums[i];
+        }
+
+        return sum;
+    }
+
+    long long sumSubarrayMaxs(vector<int>& nums) {
+        vector<int> nge = findNGE(nums);
+        vector<int> pgee = findPGEE(nums);
+
+        int n = nums.size();
+        long long sum = 0;
+
+        for (int i = 0; i < n; i++) {
+            long long left = i - pgee[i];
+            long long right = nge[i] - i;
+            sum += left * right * nums[i];
+        }
+
+        return sum;
+    }
+
     long long subArrayRanges(vector<int>& nums) {
-        return submax(nums)-submin(nums);
+        return sumSubarrayMaxs(nums) - sumSubarrayMins(nums);
     }
 };
